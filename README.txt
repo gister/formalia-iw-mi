@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Vorlage fuer akademische Arbeiten, Gestaltungsrichtlinien der
-%% Medienwissenschaft an der Universitaet Regensburg
+%% Vorlage fuer akademische Arbeiten; Gestaltungsrichtlinien der
+%% Informationswissenschaft an der Universitaet Regensburg
 %% 
-%% Gutes Gelingen  --  Juli 2008
+%% Gutes Gelingen  --  November 2008
 %% Christoph Mandl und Christoph Pfeiffer
-%% http://www-mw.uni-r.de/studium/materialien 
+%% http://www-iw.uni-r.de
 %%
 %% CC/BY-SA/3.0 - http://creativecommons.org/licenses/by-sa/3.0/
 %%
@@ -14,7 +14,7 @@
 					verwendeten/verlinkten Dateien, die euer Projekt umfassen.
 ==	bibtex/*		enthaelt eure Literaturverwaltung im bibtex-Format. JabRef
 					als externer Editor ist hier zur Verwaltung der Daten zu empfehlen
-					(http://jabref.sourceforge.net/).
+					(http://jabref.sourceforge.net/), citavi und zotero.
 ==	images/*		Hierin verwaltet ihr eure Bilder, welche eingebunden werden
 					sollen (pdfs, jpgs).
 ==	inhalte/*		Inhalte, die eure Arbeit betreffen, vom Titelblatt zum Vorwort
@@ -29,6 +29,3 @@
 Bei der ersten Verwendung sollten drei Durchlaeufe des Dokuments erstellt werden bevor alle
 Listings und Literaturreferenzen korrekt dargestellt werden, falls jemand anhand der Gestaltungsrichtlinie
 ein erstes Gefuehl fuer den Einsatz von LaTeX gewinnen moechte.
-
-
-
